@@ -1,6 +1,4 @@
-Desculpe pela confusão. Aqui está o conteúdo todo em markdown:
 
-```markdown
 # Material de Estudo sobre Python
 
 ## Introdução ao Python:
@@ -118,7 +116,4 @@ Exemplo:
 def saudacao(nome, curso="Python"): 
     print(f"Seja bem vindo, {nome}")
     print(f"É um prazer te-lo como aluno de {curso}")
-```
-
-Este material de estudo fornece uma introdução abrangente aos conceitos fundamentais da linguagem Python, incluindo variáveis, operadores, estruturas condicionais, laços de repetição, listas e funções. Esses conceitos formam a base necessária para explorar tópicos mais avançados em Python, como programação orientada a objetos, manipulação de arquivos, bibliotecas externas e muito mais. Recomenda-se praticar esses conceitos por meio de exercícios e projetos para consolidar o aprendizado.
 ```
